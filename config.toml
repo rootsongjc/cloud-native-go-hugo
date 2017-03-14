@@ -1,4 +1,4 @@
-baseurl = "https://rootsongjc.github.io/"
+baseurl = "https://rootsongjc.github.io/cloud-native-go"
 languageCode = "en-us"
 title = "Cloud Native Go"
 theme = "hugo-creative-theme"
