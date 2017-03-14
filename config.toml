@@ -42,7 +42,7 @@ googleAnalytics = ""
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "Cloud Native Go"
-		subtitle   = "[Cloud Native Go](http://rootsongjc.github.io/talks/cloud-native-go/) the book was written by Kevin Hoffman and Dan Nemeth, translated to Chineses by four guys of [TalkingData](http://www.talkingdata.com)."
+		subtitle   = "This book was written by Kevin Hoffman and Dan Nemeth, translated to Chineses with ❤️ by four guys from [TalkingData](http://www.talkingdata.com)."
 		buttonText = "Find out more"
 
 
@@ -87,16 +87,16 @@ googleAnalytics = ""
 
     # Aside section
 	[params.aside]
-		headline = "Get the Creative Theme for Hugo"
+		headline = "Jimmy the translator's blog"
 
 		[params.aside.button]
-			text = "More"
-			link = "//rootsongjc.github.com"
+			text = "Go"
+			link = "//rootsongjc.github.io"
 
 	# Contact section
 	[params.contact]
 		headline = "Let's Get In Touch!"
-		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
+		description = "Ready to start your next project with us? That's great! Give us a call or send us an email or add me as wechat friend and we will get back to you as soon as possible!"
 		phone = "jimmysong"
 		email = "rootsongjc@gmail.com"
 
