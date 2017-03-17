@@ -91,7 +91,7 @@ googleAnalytics = ""
 
 		[params.aside.button]
 			text = "Go"
-			link = "//rootsongjc.github.io"
+			link = "http://rootsongjc.github.io"
 
 	# Contact section
 	[params.contact]
