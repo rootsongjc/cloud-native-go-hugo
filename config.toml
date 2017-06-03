@@ -48,7 +48,7 @@ googleAnalytics = ""
 	# About section
 	[params.about]
 		headline    = "关于本书"
-		description = "在本书中，你将按照测试驱动和高度自动化的方式逐步实现基于Go的云原生应用程序构建。<br>本书涵盖构建服务的基本原理、中间件技术、git、Docker和Wercker等工具的使用，还包括云服务的配置。<br>涵盖了事件驱动源和CQRS等模式，书中的所有内容组合成最终的示例，可以为你自己的项目提供灵感。<br>[阅读简介](http://rootsongjc.github.io/talks/cloud-native-go/)"
+		description = "在本书中，你将按照测试驱动和高度自动化的方式逐步实现基于Go的云原生应用程序构建。<br>本书涵盖构建服务的基本原理、中间件技术、git、Docker和Wercker等工具的使用，还包括云服务的配置。<br>涵盖了事件驱动源和CQRS等模式，书中的所有内容组合成最终的示例，可以为你自己的项目提供灵感。<br><b>[阅读简介](http://rootsongjc.github.io/talks/cloud-native-go/)</b>"
 
 
 	# Service section
