@@ -86,7 +86,7 @@ googleAnalytics = ""
 	# Contact section
 	[params.contact]
 		headline = "与我联系"
-		description = "对本书或对我本人感兴趣，请使用微信或邮件与我联系"
+		description = "有任何问题，请使用微信或邮件与我联系"
 		phone = "jimmysong"
 		email = "rootsongjc@gmail.com"
 
