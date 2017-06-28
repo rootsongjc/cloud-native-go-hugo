@@ -75,6 +75,13 @@ googleAnalytics = ""
             title = "Go"
             description = "Fall ❤️ with Go"
 
+    # Portfolio modals
+	[params.portfolio.modal]
+        client = "Client"
+        date = "Date"
+        category = "Category"
+        buttonText = "Close"
+
     # Aside section
 	[params.aside]
 		headline = "Jimmy Song's Blog"
