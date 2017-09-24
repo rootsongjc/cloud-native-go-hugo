@@ -48,7 +48,8 @@ googleAnalytics = ""
 	# About section
 	[params.about]
 		headline    = "立即扫码开启你的云原生应用开发之路"
-		description = "![buy](http://olz1di9xf.bkt.clouddn.com/cloud-native-go-qr-code.png)"
+		#description = "![Cloud Native Go JD QR code](http://olz1di9xf.bkt.clouddn.com/cloud-native-go-qr-code.png)"
+		description = "![Cloud Native Go JD QR code](/cloud-native-go/media/cloud-native-go-qr-code.png)"
 
 
 	# Service section
