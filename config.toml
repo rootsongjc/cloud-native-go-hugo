@@ -20,8 +20,8 @@ googleAnalytics = ""
 
 	# To provide some metadata for search engines feel free to add some
 	# information about you and your website.
-	name = "Jimmy Song"
-	description = "rootsongjc is Jimmy Song"
+	name = "Cloud Native Go 宋净超译"
+	description = "Cloud Native Go - 基于Go和React的web云原生应用构建指南 Kevin Hoffman & Dan Nemeth 著 宋净超译 jimmysong.io"
 
 	# The path must be relative to the static folder
 	favicon = "favicon.ico"
@@ -48,8 +48,8 @@ googleAnalytics = ""
 	# About section
 	[params.about]
 		headline    = "立即扫码开启你的云原生应用开发之路"
-		#description = "![Cloud Native Go JD QR code](http://olz1di9xf.bkt.clouddn.com/cloud-native-go-qr-code.png)"
-		description = "![Cloud Native Go JD QR code](/cloud-native-go/media/cloud-native-go-qr-code.png)"
+		description = "![Cloud Native Go JD QR code](https://res.cloudinary.com/jimmysong/image/upload/images/cloud-native-go-qr-code.png)"
+		#description = "![Cloud Native Go JD QR code](/cloud-native-go/media/cloud-native-go-qr-code.png)"
 
 
 	# Service section
@@ -89,7 +89,7 @@ googleAnalytics = ""
 
 		[params.aside.button]
 			text = "Go"
-			link = "http://rootsongjc.github.io"
+			link = "https://jimmysong.io"
 
 	# Contact section
 	[params.contact]
