@@ -1,6 +1,6 @@
 modalID: 1
 title: 图书封面
-img: 1.jpg
+img: https://ws1.sinaimg.cn/large/00704eQkly1fs1ef0wzo7j30m80t0tm7.jpg
 client: 简介
 clientLink: "http://rootsongjc.github.io/talks/cloud-native-go/"
 description: 电子工业出版社</br>Kevin Hoffman & Dan Nemeth 著</br>TalkingData 宋净超 吴迎松 徐蓓 马超 译
